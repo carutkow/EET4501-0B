@@ -1,0 +1,1 @@
+This is our project, a Deep Learning IDS. To run the code yourself, you just need to follow a few steps. First, you must extract the datasets from the archive.zip folder. Then upload these two datasets into you Jupyter Notebook. From there, each cell should be run in order. Enjoy!
